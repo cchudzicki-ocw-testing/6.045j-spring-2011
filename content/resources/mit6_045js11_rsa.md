@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: MIT6_045JS11_rsa.pdf
-type: OCWFile
 uid: a58157da-a3e9-6833-038e-8169b8978393
 ---
