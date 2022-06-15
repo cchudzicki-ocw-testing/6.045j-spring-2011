@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course,
+  lecture notes, scribe notes written by a student, and a handout on cryptography.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
